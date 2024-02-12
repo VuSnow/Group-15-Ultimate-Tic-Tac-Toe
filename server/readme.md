@@ -1,4 +1,4 @@
-- Instruction to run server\n
+- Instruction to run server <br>
     +) open cmd and run this command: ifconfig\n
     +) find the IP of your network\n
     +) change the IP of the server to your IP. (this line of code: address.sin_addr.s_addr = inet_addr("192.168.1.6");)\n

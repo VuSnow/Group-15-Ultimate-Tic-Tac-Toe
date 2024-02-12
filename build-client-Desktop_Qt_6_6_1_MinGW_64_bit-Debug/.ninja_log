@@ -1,0 +1,111 @@
+# ninja log v5
+17	240	7286541242664181	client_autogen/timestamp	d4846c05d5eae5ff
+17	240	7286541242664181	client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+1616	1722	7284782865046103	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/SJ56Y4VZUD/qrc_background-login.cpp	84759bb291cf313c
+17	240	7286541242664181	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/timestamp	d4846c05d5eae5ff
+1721	6708	7285155047382731	CMakeFiles/client.dir/main.cpp.obj	f2fbe4d62678455d
+266	5344	7286541293693963	CMakeFiles/client.dir/menu_login.cpp.obj	95d870771f17c1d1
+1616	1722	7284782865046103	client_autogen/SJ56Y4VZUD/qrc_background-login.cpp	84759bb291cf313c
+1625	1743	7284782865259951	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/SJ56Y4VZUD/qrc_background.cpp	20b5fa0dced90ef7
+17	240	7286541242664181	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+1637	1758	7284782865412821	client_autogen/SJ56Y4VZUD/qrc_pacifico-font.cpp	c4ec41089ca848da
+1625	1743	7284782865259951	client_autogen/SJ56Y4VZUD/qrc_background.cpp	20b5fa0dced90ef7
+1637	1758	7284782865412821	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/SJ56Y4VZUD/qrc_pacifico-font.cpp	c4ec41089ca848da
+1631	1793	7284782865766409	client_autogen/SJ56Y4VZUD/qrc_user_icon.cpp	7aa324f62bac4b87
+1631	1793	7284782865766409	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/SJ56Y4VZUD/qrc_user_icon.cpp	7aa324f62bac4b87
+1837	1974	7284782867609120	CMakeFiles/client.dir/player.cpp.obj	5cd97367129987c9
+271	4109	7286541281332382	CMakeFiles/client.dir/online_list.cpp.obj	455e0956391d67e8
+1848	2070	7284782868524460	CMakeFiles/client.dir/client_autogen/SJ56Y4VZUD/qrc_background-login.cpp.obj	2c2d8418c19f5f5e
+2071	2236	7284782870245406	CMakeFiles/client.dir/client_autogen/SJ56Y4VZUD/qrc_user_icon.cpp.obj	dae81830d50755e4
+1974	2944	7284782877293524	CMakeFiles/client.dir/client_autogen/SJ56Y4VZUD/qrc_pacifico-font.cpp.obj	5a463aeab5cfe58e
+1860	2522	7284782872890717	CMakeFiles/client.dir/client_autogen/SJ56Y4VZUD/qrc_background.cpp.obj	b6d7c8c9b73f2f08
+1773	6632	7285155046583907	CMakeFiles/client.dir/TcpClient.cpp.obj	70034e31d7b70023
+258	3605	7286541276286153	CMakeFiles/client.dir/forgot_password.cpp.obj	8b648a62d595d9bc
+286	3877	7286541279012861	CMakeFiles/client.dir/online_player_item.cpp.obj	ae9ca2c24831a1c9
+276	5443	7286541294671332	CMakeFiles/client.dir/login_form.cpp.obj	30194f1688f48efc
+262	4393	7286541284175117	CMakeFiles/client.dir/mainwindow.cpp.obj	a7633211d60003d4
+282	4614	7286541286387435	CMakeFiles/client.dir/register_form.cpp.obj	4c279cfab951458
+17	2995	7285156297244627	CMakeFiles/client.dir/client_autogen/mocs_compilation.cpp.obj	565bd205e421c87d
+254	5449	7286541294727136	CMakeFiles/client.dir/game_screen.cpp.obj	4103aceb698e6e8f
+5449	6203	7286541302230149	client.exe	b7ec70b85530eec8
+18	297	7286542962351209	client_autogen/timestamp	d4846c05d5eae5ff
+18	297	7286542962351209	client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+18	297	7286542962351209	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/timestamp	d4846c05d5eae5ff
+18	297	7286542962351209	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+316	3669	7286542996084328	CMakeFiles/client.dir/forgot_password.cpp.obj	8b648a62d595d9bc
+358	4068	7286542999986683	CMakeFiles/client.dir/online_player_item.cpp.obj	ae9ca2c24831a1c9
+348	4226	7286543001657797	CMakeFiles/client.dir/online_list.cpp.obj	455e0956391d67e8
+322	4619	7286543005573677	CMakeFiles/client.dir/mainwindow.cpp.obj	a7633211d60003d4
+353	4797	7286543007359685	CMakeFiles/client.dir/register_form.cpp.obj	4c279cfab951458
+343	5680	7286543016180224	CMakeFiles/client.dir/menu_login.cpp.obj	95d870771f17c1d1
+327	5766	7286543017048578	CMakeFiles/client.dir/game_screen.cpp.obj	4103aceb698e6e8f
+332	5784	7286543017223305	CMakeFiles/client.dir/login_form.cpp.obj	30194f1688f48efc
+5785	6607	7286543025381185	client.exe	b7ec70b85530eec8
+11	256	7286549932343685	client_autogen/timestamp	d4846c05d5eae5ff
+11	256	7286549932343685	client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+11	256	7286549932343685	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/timestamp	d4846c05d5eae5ff
+11	256	7286549932343685	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+274	3296	7286549962727715	CMakeFiles/client.dir/forgot_password.cpp.obj	8b648a62d595d9bc
+302	3590	7286549965661996	CMakeFiles/client.dir/online_player_item.cpp.obj	ae9ca2c24831a1c9
+287	3781	7286549967582876	CMakeFiles/client.dir/online_list.cpp.obj	455e0956391d67e8
+270	4076	7286549970529868	CMakeFiles/client.dir/mainwindow.cpp.obj	a7633211d60003d4
+297	4231	7286549972069681	CMakeFiles/client.dir/register_form.cpp.obj	4c279cfab951458
+283	5064	7286549980351463	CMakeFiles/client.dir/menu_login.cpp.obj	95d870771f17c1d1
+279	5212	7286549981866100	CMakeFiles/client.dir/game_screen.cpp.obj	4103aceb698e6e8f
+291	5326	7286549983001265	CMakeFiles/client.dir/login_form.cpp.obj	30194f1688f48efc
+5326	6113	7286549990792009	client.exe	b7ec70b85530eec8
+15	238	7286554310304867	client_autogen/timestamp	d4846c05d5eae5ff
+15	238	7286554310304867	client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+15	238	7286554310304867	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/timestamp	d4846c05d5eae5ff
+15	238	7286554310304867	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+260	2977	7286554337667454	CMakeFiles/client.dir/forgot_password.cpp.obj	8b648a62d595d9bc
+283	3221	7286554340111363	CMakeFiles/client.dir/online_player_item.cpp.obj	ae9ca2c24831a1c9
+264	3435	7286554342267518	CMakeFiles/client.dir/online_list.cpp.obj	455e0956391d67e8
+256	3799	7286554345897184	CMakeFiles/client.dir/mainwindow.cpp.obj	a7633211d60003d4
+278	3902	7286554346885995	CMakeFiles/client.dir/register_form.cpp.obj	4c279cfab951458
+268	4525	7286554353120804	CMakeFiles/client.dir/menu_login.cpp.obj	95d870771f17c1d1
+273	4698	7286554354860363	CMakeFiles/client.dir/login_form.cpp.obj	30194f1688f48efc
+252	4787	7286554355730339	CMakeFiles/client.dir/game_screen.cpp.obj	4103aceb698e6e8f
+4788	5555	7286554363397136	client.exe	b7ec70b85530eec8
+42	1787	7288517872080081	client_autogen/timestamp	d4846c05d5eae5ff
+42	1787	7288517872080081	client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+42	1787	7288517872080081	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/timestamp	d4846c05d5eae5ff
+42	1787	7288517872080081	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+1807	7893	7288517933657032	CMakeFiles/client.dir/forgot_password.cpp.obj	8b648a62d595d9bc
+1848	7910	7288517933837151	CMakeFiles/client.dir/online_player_item.cpp.obj	ae9ca2c24831a1c9
+1787	7945	7288517933862363	CMakeFiles/client.dir/main.cpp.obj	f2fbe4d62678455d
+1824	7994	7288517935534041	CMakeFiles/client.dir/online_list.cpp.obj	455e0956391d67e8
+1799	8051	7288517936138495	CMakeFiles/client.dir/mainwindow.cpp.obj	a7633211d60003d4
+1834	8145	7288517937017033	CMakeFiles/client.dir/register_form.cpp.obj	4c279cfab951458
+1840	8317	7288517938771059	CMakeFiles/client.dir/TcpClient.cpp.obj	70034e31d7b70023
+1829	9211	7288517947715097	CMakeFiles/client.dir/menu_login.cpp.obj	95d870771f17c1d1
+1794	9250	7288517948132350	CMakeFiles/client.dir/client_autogen/mocs_compilation.cpp.obj	565bd205e421c87d
+1812	9737	7288517952968810	CMakeFiles/client.dir/game_screen.cpp.obj	4103aceb698e6e8f
+1818	9919	7288517954810951	CMakeFiles/client.dir/login_form.cpp.obj	30194f1688f48efc
+9920	11145	7288517966993089	client.exe	b7ec70b85530eec8
+19	288	7288522003514884	client_autogen/timestamp	d4846c05d5eae5ff
+19	288	7288522003514884	client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+19	288	7288522003514884	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/timestamp	d4846c05d5eae5ff
+19	288	7288522003514884	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+347	3746	7288522038071025	CMakeFiles/client.dir/forgot_password.cpp.obj	8b648a62d595d9bc
+392	4017	7288522040758575	CMakeFiles/client.dir/online_player_item.cpp.obj	ae9ca2c24831a1c9
+351	4226	7288522042872531	CMakeFiles/client.dir/online_list.cpp.obj	455e0956391d67e8
+303	4572	7288522046324012	CMakeFiles/client.dir/mainwindow.cpp.obj	a7633211d60003d4
+386	4764	7288522048230120	CMakeFiles/client.dir/register_form.cpp.obj	4c279cfab951458
+363	5671	7288522057317305	CMakeFiles/client.dir/menu_login.cpp.obj	95d870771f17c1d1
+342	5770	7288522058302411	CMakeFiles/client.dir/game_screen.cpp.obj	4103aceb698e6e8f
+380	5797	7288522058560982	CMakeFiles/client.dir/login_form.cpp.obj	30194f1688f48efc
+5797	6612	7288522066672506	client.exe	b7ec70b85530eec8
+17	548	7288532923245478	client_autogen/timestamp	d4846c05d5eae5ff
+17	548	7288532923245478	client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+17	548	7288532923245478	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/timestamp	d4846c05d5eae5ff
+17	548	7288532923245478	D:/Code/Network-Programming/project/New folder/Ultimate-Tic-Tac-Toe-Tcp/build-client-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/client_autogen/mocs_compilation.cpp	d4846c05d5eae5ff
+600	6465	7288532982391200	CMakeFiles/client.dir/forgot_password.cpp.obj	8b648a62d595d9bc
+652	6897	7288532986704029	CMakeFiles/client.dir/online_player_item.cpp.obj	ae9ca2c24831a1c9
+624	7211	7288532989846749	CMakeFiles/client.dir/online_list.cpp.obj	455e0956391d67e8
+592	7901	7288532996732156	CMakeFiles/client.dir/mainwindow.cpp.obj	a7633211d60003d4
+644	8162	7288532999352182	CMakeFiles/client.dir/register_form.cpp.obj	4c279cfab951458
+634	9609	7288533013818059	CMakeFiles/client.dir/menu_login.cpp.obj	95d870771f17c1d1
+608	9861	7288533016333160	CMakeFiles/client.dir/game_screen.cpp.obj	4103aceb698e6e8f
+616	9958	7288533017306841	CMakeFiles/client.dir/login_form.cpp.obj	30194f1688f48efc
+9959	11867	7288533036291344	client.exe	b7ec70b85530eec8
